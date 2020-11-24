@@ -1,0 +1,46 @@
+[editor]
+line_wrapping=false
+line_break_column=72
+auto_continue_multiline=true
+
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=false
+strip_trailing_spaces=false
+replace_tabs=false
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=Calculadora_Non-GUI-App
+base_path=/home/josefelixrc/Documents/Projects & Bussines/CPW Online/2 - Projects/Desktop apps/tests/Calculadora_Non-GUI-App
+description=
+file_patterns=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=1
+FILE_NAME_0=148;C++;0;EUTF-8;1;1;0;%2Fhome%2Fjosefelixrc%2FDocuments%2FProjects%20%26%20Bussines%2FCPW%20Online%2F2%20-%20Projects%2FDesktop%20apps%2Ftests%2FCalculadora_Non-GUI-App%2Fsrc%2Fmain.cpp;0;4
+FILE_NAME_1=99;C++;0;EUTF-8;1;1;0;%2Fhome%2Fjosefelixrc%2FDocuments%2FProjects%20%26%20Bussines%2FCPW%20Online%2F2%20-%20Projects%2FDesktop%20apps%2Ftests%2FCalculadora_Non-GUI-App%2Fsrc%2Fcalculadora.cpp;0;4
+FILE_NAME_2=119;C++;0;EUTF-8;1;1;0;%2Fhome%2Fjosefelixrc%2FDocuments%2FProjects%20%26%20Bussines%2FCPW%20Online%2F2%20-%20Projects%2FDesktop%20apps%2Ftests%2FCalculadora_Non-GUI-App%2Finclude%2Fcalculadora.h;0;4
+FILE_NAME_3=169;Make;0;EUTF-8;1;1;0;%2Fhome%2Fjosefelixrc%2FDocuments%2FProjects%20%26%20Bussines%2FCPW%20Online%2F2%20-%20Projects%2FDesktop%20apps%2Ftests%2FCalculadora_Non-GUI-App%2FMakefile;0;4
+
+[VTE]
+last_dir=/run/media/josefelixrc/b6c3fdac-55db-472f-b8f7-ca5613fd4123/josefelixrc/Documents/Projects & Bussines/CPW Online/2 - Projects/Desktop apps/tests/Calculadora_Non-GUI-App
+
+[build-menu]
+EX_00_LB=_Execute
+EX_00_CM="./%e"
+EX_00_WD=
+NF_00_LB=_Make
+NF_00_CM=make -C ../
+NF_00_WD=

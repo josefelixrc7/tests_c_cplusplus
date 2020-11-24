@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589901596 source:/run/media/josefelixrc/b6c3fdac-55db-472f-b8f7-ca5613fd4123/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/CLI/test_threads/test1/main.cpp
+	<iostream>
+	<thread>
+
